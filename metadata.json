@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Zippy Product Assistant",
+  "description": "A polite, warm, and helpful voice-based AI agent designed to answer questions about Zippy's screen-free kids smart audio products.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
